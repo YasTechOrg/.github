@@ -16,6 +16,6 @@ and product managers.
 ![Tech](https://img.shields.io/badge/Typescript-blue)
 ![Tech](https://img.shields.io/badge/c,%20c++-orange)
 ![Tech](https://img.shields.io/badge/Figma-gray)
-![Tech](https://img.shields.io/badge/creative-white)
+![Tech](https://img.shields.io/badge/creative-green)
 ![Tech](https://img.shields.io/badge/future-blue)
 ![Tech](https://img.shields.io/badge/motivated-pink)
