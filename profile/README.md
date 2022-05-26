@@ -1,4 +1,4 @@
-# ![YasTech](../logo.png) Technology Team
+# ![YasTech](https://raw.githubusercontent.com/YasTechOrg/.github/main/logo.png) Technology Team
 YasTech is young, creative and motivated technology team that design and develop
 digital product such as `Websites` `Mobile Applications` `Desktop Applications`
 `CLI Programs` and etc... which consists of developers, designers, project managers
