@@ -1,6 +1,6 @@
 # ![YasTech](./logo.png) Technology Team
 YasTech is young, creative and motivated technology team that design and develop
-digital product such as `Websites` `Mobile Applications` `Desktop Applications`
+digital product such as `Websites` `Mobile Applications` `Desktop Applications` `Data science`
 `CLI Programs` and etc... which consists of developers, designers, project managers
 and product managers.
 
